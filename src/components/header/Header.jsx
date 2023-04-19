@@ -51,7 +51,7 @@ const Header = () => {
                             </a>
                         </li>
                     </ul>
-                    <i class="uil uil-times nav__close" onClick={() => showMenu (!Toggle)}></i>
+                    {/* <i class="uil uil-times nav__close" onClick={() => showMenu (!Toggle)}></i> */}
                 </div>
                 {/* SECTION 3 OF NAV */}
                 <div className="nav__toggle" onClick={() => showMenu (!Toggle)}>

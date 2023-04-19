@@ -18,8 +18,9 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-          Software Developer with experience in the areas of full-stack 
-          development, website design, database architecture and object-oriented programming
+            Energetic and result-driven Software Developer with experience in the areas of full-stack 
+            development, website design, database architecture and object-oriented programming.
+
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
